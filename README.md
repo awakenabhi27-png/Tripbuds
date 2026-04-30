@@ -35,7 +35,7 @@
   </div>
 </section><section class="section">
   <h2>Contact Us</h2>
-  <p>Call/WhatsApp: 9830422743</p>
+  <p>Call/WhatsApp: 7632094227</p>
   <p>Follow us on Instagram: @Tripbuds.in</p>
 </section><footer>
   ©️ 2026 Tripbuds.in | Travel Together
